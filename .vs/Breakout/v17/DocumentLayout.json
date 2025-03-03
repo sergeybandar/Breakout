@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\unity\\projects\\Breakout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\lowerborder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lowerborder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|c:\\unity\\projects\\breakout\\assets\\scripts\\breakaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breakaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\border.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\border.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|c:\\unity\\projects\\breakout\\assets\\scripts\\spawnblocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnblocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\startblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\colorline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\startplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|C:\\unity\\projects\\Breakout\\assets\\scripts\\spawnball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B91EFDE-9B25-2316-2D71-6E972A83EF85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakAudio.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\BreakAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BreakAudio.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\BreakAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BreakAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T21:33:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Border.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\Border.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Border.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\Border.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Border.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:52:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LowerBorder.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\LowerBorder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LowerBorder.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\LowerBorder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LowerBorder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:51:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartBlock.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\StartBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartBlock.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\StartBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T20:36:36.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorLine.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\ColorLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorLine.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\ColorLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:58:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:36:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Block.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\Block.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Block.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:28:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnBlocks.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\SpawnBlocks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnBlocks.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\SpawnBlocks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnBlocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:51:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpawnBall.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\SpawnBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnBall.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\SpawnBall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:40:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartPlatform.cs",
+              "DocumentMoniker": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\StartPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartPlatform.cs",
+              "ToolTip": "C:\\unity\\projects\\Breakout\\Assets\\Scripts\\StartPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartPlatform.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:25:12.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
