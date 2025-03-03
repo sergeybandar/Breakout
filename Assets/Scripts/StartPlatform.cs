@@ -12,11 +12,11 @@ public class StartPlatform : MonoBehaviour
     [SerializeField] private Transform _leftBorderPoint;
     void Update()
     {
-        if (Input.GetKey(KeyCode.A) && (transform.position.x > _leftBorderPoint.position.x))
+        if (Input.GetKey(KeyCode.LeftArrow) && (transform.position.x > _leftBorderPoint.position.x))
         {
             gameObject.transform.position += Vector3.left * _speed * Time.deltaTime;
         }
-        if (Input.GetKey(KeyCode.D) && (transform.position.x < _rightBorderPoint.position.x))
+        if (Input.GetKey(KeyCode.RightArrow) && (transform.position.x < _rightBorderPoint.position.x))
         {
             gameObject.transform.position += Vector3.right * _speed * Time.deltaTime;
         }
